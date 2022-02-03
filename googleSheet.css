@@ -1,0 +1,204 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+nav{
+    margin-left: 10px; 
+    padding: 0;
+    width: 100%;
+    position: fixed;
+    top: 1px;
+    background-color: white;
+    padding-bottom: 20px;
+}
+.content{
+    font-family: sans-serif;
+    display: inline;
+    font-size: 1rem;
+    font-weight: lighter;
+    color: rgb(117, 117, 117);
+   font-weight: 550;
+}
+.content-main{
+    font-size: 1.5rem;
+}
+.content-img{
+    display: inline;
+    
+}
+
+.nav-value a{
+    color: rgb(117, 117, 117);
+    display: inline-block;
+
+}
+.nav-option{
+    display: inline;
+    margin-left: 100px;
+}
+.avail-option{
+    margin-top: 0%;
+    padding-right:10px;
+    /* padding-bottom: 100px; */
+}
+a:hover{
+    color: black;
+}
+
+.box1{
+    margin-top: 10rem;
+    margin-left: 15rem;
+    margin-right: 20rem;
+    width: fit-content;
+    height: fit-content;
+
+}
+.box1 h2{
+    display: inline;
+    font-size: 4rem;
+    font-weight: 100;
+}
+.mainImg{
+    display: inline;
+    float: right;
+    position: relative;
+    margin-left: 5rem;
+
+}
+.summary{
+    margin-right: 2rem;
+    height: fit-content;
+    width: 400px;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 1rem;
+    color: rgb(95, 99, 104);
+    margin-bottom: 50px;
+}
+.swipedown{
+    margin-top: 2rem;
+    text-align: center;
+
+}
+.btn{
+    display: inline;
+}
+
+#trybtn{
+    background-color:rgb(23,90,188);
+    font-size: 16px;
+    height: 3rem;
+    width : 15rem;
+    color: white;
+    border-radius: 7px;
+    border: 1px solid rgb(23,90,188);
+    font-weight: 500;
+}
+#trybtn:hover{
+    background-color: rgb(5, 70, 167);
+}
+#gotobtn{
+    border: 0.5px solid rgb(119, 117, 117);
+    background-color: white;
+    font-size: 1rem;
+    height: 3rem;
+    width : 15rem;
+    border-radius: 7px;
+    color:rgb(23,90,188);
+    font-weight: 500;
+}
+#gotobtn:hover{
+    border: 1px solid rgb(5, 70, 167);
+
+}
+
+hr{
+    margin-top: 100px;
+    /* height: 1px; */
+    /* background-color: lightgray; */
+}
+.signInDiv{
+    display: inline-block;
+    /* margin-top: 10px; */
+}
+.accountques{
+    /* border: 1px solid red; */
+    margin-top: 50px;
+    color: rgb(95, 99, 104);
+    font-size: 16px;
+
+}
+.signup a{
+    /* border: 1px solid blueviolet; */
+    color:rgb(23,90,188);
+    font-weight: 500;
+    margin-left: 20px;
+    padding: 10px 10px 10px 10px;
+    font-size: 16px;
+}
+.signup a:hover{
+    padding: 10px 10px 10px 10px;
+    background-color: rgb(230, 224, 224);
+    border-radius: 5px;
+}
+.swipedown{
+    color: rgb(95, 99, 104);
+}
+.swipeDownArrow img{
+    width: 100px;
+}
+
+
+
+.mainImg2 img{
+    display: inline-block;
+    height: 430px;
+    width: 740px;
+    margin-right: 3rem;
+    
+}
+.mainImg2{
+    float: left;
+}
+h3{
+    display: inline-block;
+    font-size: 36px;
+    font-weight: 100;
+}
+.summary2{
+    display: inline-block;}
+
+.box2{
+    /* border: 2px solid red; */
+    display: inline-block;
+    margin-top: 10rem;
+    margin-left: 15rem;
+}
+.mainImg3 img{
+    height: 430px;
+    width: 740px;
+}
+.box3{
+    margin-left: 20rem;
+    margin-right: 10rem;
+    display: inline-block;
+
+}
+.box-content{
+    margin-left: 1rem;
+    display: inline-block;
+    padding-top: 9rem;
+    margin-right: 10rem;
+    margin-left: 7rem;
+    
+}
+.box-content2{
+    margin-left: 1rem;
+    display: inline-block;
+    padding-top: 9rem;   
+}
+.mainImg4{
+    margin-top: 2rem;
+}
